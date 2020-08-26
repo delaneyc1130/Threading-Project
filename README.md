@@ -1,0 +1,3 @@
+# Threading-Project
+The project implements a publisher/subscriber model. The main idea of this model is that the publishers of the information on the different topics will want to share their information with the subscribers to those topics.
+The publishers will send their data to a broker which stores the data under a given topic while the subscribers can then receive this data from the broker for the topics they are subscribed to. The project focuses on the creation of a new social media services, known as InstaQuack, which gives students a way to communicate what they are doing with real time photos.
