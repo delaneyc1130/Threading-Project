@@ -1,0 +1,10 @@
+put 1 "someurl" "somecaption"
+sleep 500
+put 2 "someurl" "somecaption"
+put 2 "someurl" "somecaption"
+sleep 500
+put 3 "someurl" "somecaption"
+put 3 "someurl" "somecaption"
+put 3 "someurl" "somecaption"
+sleep 500
+stop
